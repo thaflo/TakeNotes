@@ -1,10 +1,10 @@
 1	English	application/x-vnd.TakeNotes	2183189585
-Color	NoteWindow		Color
-NoteText	NoteWindow		NoteText
-month	AlarmWindow		month
-Quit	NoteView		Quit
-Change background color	NoteWindow		Change background color
-Green	NoteWindow		Green
+Color	NoteWindow		Farbe
+NoteText	NoteWindow		Text
+month	AlarmWindow		Monat
+Quit	NoteView		Beenden
+Change background color	NoteWindow		Hintergrundfarbe ändern
+Green	NoteWindow		Grün
 Insert time and date to set an alarm	AlarmView		Insert time and date to set an alarm
 Icons by Meanwhile	NoteWindow		Icons by Meanwhile
 Alarm activated for note: 	NoteWindow		Alarm activated for note: 
